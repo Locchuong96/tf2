@@ -2,8 +2,6 @@
 
 # references
 
-https://www.tensorflow.org/overview
-
 https://www.tensorflow.org/guide
 
 https://www.tensorflow.org/tutorials
