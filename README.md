@@ -6,6 +6,8 @@ https://www.tensorflow.org/guide
 
 https://www.tensorflow.org/tutorials
 
+https://www.tensorflow.org/api_docs/python/tf
+
 https://github.com/https-deeplearning-ai/tensorflow-1-public/tree/main
 
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
