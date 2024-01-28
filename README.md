@@ -21,3 +21,5 @@ https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf
 https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf
 
 https://viblo.asia/p/chia-se-kinh-nghiem-thi-chung-chi-tensorflow-developer-certificate-LzD5dW9YljY
+
+https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master
