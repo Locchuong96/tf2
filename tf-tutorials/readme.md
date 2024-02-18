@@ -6,6 +6,15 @@
 |`tf.keras.layers.Flatten`||
 |`tf.keras.layers.Dense`||
 |`tf.keras.layers.Dropout`||
+|`tf.keras.layers.Softmax`||
+|`tf.nn.softmax`||
+|`tf.keras.losses.SparseCategoricalCrossentropy`||
+|`model.compile`||
+|`model.fit`||
+|`model.evaluate`||
+|``||
+|``||
+|``||
 |``||
 |``||
 |``||
